@@ -26,5 +26,5 @@ Install dependencies with:
 ```bash
 pip install requests
 ```
-###📥 Installation
+#📥 Installation
 Clone the repository:
