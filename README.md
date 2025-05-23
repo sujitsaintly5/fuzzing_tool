@@ -25,6 +25,6 @@ Install dependencies with:
 
 ```bash
 pip install requests
-```
-#📥 Installation
-Clone the repository:
+git clone https://github.com/yourusername/multithreaded-fuzzer.git
+cd fuzzing_tool
+
