@@ -6,11 +6,11 @@ A simple multithreaded fuzzing tool written in Python. This tool is designed to 
 
 ## ⚙️ Features
 
-- Multithreaded execution for faster fuzzing
-- Random payload generation (alphanumeric)
-- Customizable number of threads and requests
-- HTTP GET requests with query parameter injection
-- Basic error handling and request timeout
+- 🔁 Multithreaded execution for faster fuzzing  
+- 🔡 Random alphanumeric payload generation  
+- 🔧 Customizable number of threads and requests  
+- 🌐 HTTP GET requests with query parameter injection  
+- 🛡️ Basic error handling and request timeout  
 
 ---
 
@@ -19,14 +19,11 @@ A simple multithreaded fuzzing tool written in Python. This tool is designed to 
 ### 🔧 Prerequisites
 
 - Python 3.x
-- `requests` library (install with `pip install requests`)
+- `requests` library
 
-### 📥 Installation
-
-Clone the repository:
-##🛠️ Usage
+Install dependencies with:
 
 ```bash
-git clone https://github.com/yourusername/multithreaded-fuzzer.git
-cd multithreaded-fuzzer
-##🛠️ Usage
+pip install requests
+
+e
