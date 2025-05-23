@@ -24,7 +24,9 @@ A simple multithreaded fuzzing tool written in Python. This tool is designed to 
 ### 📥 Installation
 
 Clone the repository:
+##🛠️ Usage
 
 ```bash
 git clone https://github.com/yourusername/multithreaded-fuzzer.git
 cd multithreaded-fuzzer
+##🛠️ Usage
