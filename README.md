@@ -42,3 +42,15 @@ You’ll be prompted for:
 
 - Wordlist file path → e.g. wordlist.txt
 
+## OUTPUT 
+
+``` bash
+[*] Starting fuzzing on https://example.com/ with 4 paths...
+
+[403] https://example.com/admin
+[200] https://example.com/login
+[200] https://example.com/robots.txt
+
+[*] Fuzzing complete.
+```
+Author Name : Sujit Kumar
