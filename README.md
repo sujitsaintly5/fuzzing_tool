@@ -27,6 +27,10 @@ Install dependencies with:
 pip install requests
 git clone https://github.com/yourusername/multithreaded-fuzzer.git
 cd fuzzing_tool
+python fuzzer.py
+
+Enter website link: https://example.com/
+Enter name of directory: example.txt
 
 ```
 - Author Name : Sujit Kumar
