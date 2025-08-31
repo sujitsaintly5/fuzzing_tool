@@ -27,3 +27,18 @@ Install with:
 pip install requests
 
 ```
+## 🚀 Usage
+
+Run the script:
+
+``` bash
+python fuzzer.py
+
+```
+
+You’ll be prompted for:
+
+- Base URL → e.g. https://example.com/
+
+- Wordlist file path → e.g. wordlist.txt
+
