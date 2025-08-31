@@ -28,5 +28,5 @@ pip install requests
 git clone https://github.com/yourusername/multithreaded-fuzzer.git
 cd fuzzing_tool
 
-
-Author name : Sujit Kumar
+```
+- Author Name : Sujit Kumar
